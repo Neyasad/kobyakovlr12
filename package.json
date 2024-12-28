@@ -1,7 +1,7 @@
 {
   "name": "lr12",
   "version": "0.1.0",
-  "homepage": "https://github.io/Neyasad/Kobyakovlr12/",
+  "homepage": "https://github.io/Neyasad/Kobyakovlr12",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
