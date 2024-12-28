@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Neyasad/Kobyakovlr10/static/css/main.1f0cca1e.css",
+    "main.js": "/Neyasad/Kobyakovlr10/static/js/main.5a028990.js",
+    "static/media/logo.svg": "/Neyasad/Kobyakovlr10/static/media/logo.0fe04b496b775c7f479c2d8e6a413723.svg",
+    "static/media/measering.svg": "/Neyasad/Kobyakovlr10/static/media/measering.ce84a4ff0ba8ca7c27507a77325096d6.svg",
+    "static/media/calculation.svg": "/Neyasad/Kobyakovlr10/static/media/calculation.4336782c0d978296def117600d05e6d0.svg",
+    "index.html": "/Neyasad/Kobyakovlr10/index.html",
+    "main.1f0cca1e.css.map": "/Neyasad/Kobyakovlr10/static/css/main.1f0cca1e.css.map",
+    "main.5a028990.js.map": "/Neyasad/Kobyakovlr10/static/js/main.5a028990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0cca1e.css",
+    "static/js/main.5a028990.js"
+  ]
+}
